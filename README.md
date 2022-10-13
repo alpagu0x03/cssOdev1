@@ -2,9 +2,15 @@
 
 Bu repository'de Kodluyoruz.org ve Patika.dev işbirliğiyle, "Başlangıç Seviye Django ile Web Development Patikası" içerisinde bulunan "CSS" konusunun ilk ödevini yaptım
 
+## Anasayfa
+
 ![Anasayfa](https://github.com/alpagu0x03/cssOdev1/blob/main/mainpage.png)
 
+## Ürünlerimiz
+
 ![Ürünlerimiz](https://github.com/alpagu0x03/cssOdev1/blob/main/products.png)
+
+## Hakkımızda
 
 ![Hakkımızda](https://github.com/alpagu0x03/cssOdev1/blob/main/aboutUs.png)
 
