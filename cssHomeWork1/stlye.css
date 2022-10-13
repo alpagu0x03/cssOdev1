@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+
+}
+
+.menu{
+    list-style: none;
+    display: block;
+    margin-left: 2%;
+}
+
+.menu li{
+    display: inline;
+    margin: 10px;
+    position: relative;
+}
+
+.boyutlandirma img {
+    height: auto;
+    list-style-position: inside;
+    border-width: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    height:auto;
+    max-width:666px;
+    }
